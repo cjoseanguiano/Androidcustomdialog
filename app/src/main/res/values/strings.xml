@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android custom dialog</string>
+    <string name="botonOk">Boton OK</string>
+</resources>
